@@ -1,0 +1,151 @@
+fileFormatVersion: 2
+guid: 1e3567b5c62c3e749b3e6a5b974a331d
+timeCreated: 1429449223
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: HEEL_Left_Heel1
+    100002: HEEL_Left_Heel1_MeshPart0
+    100004: HEEL_Left_Heel1_MeshPart1
+    100006: HEEL_Left_Heeltap1
+    100008: HEEL_Left_Internal_shoe_parts__delete_if_using_opaque_mat_Cube
+    100010: HEEL_Left_Internal_shoe_parts__delete_if_using_opaque_mat_Cube_11
+    100012: HEEL_Left_Internal_shoe_parts__delete_if_using_opaque_mat_Cube_21
+    100014: HEEL_Left_Internal_shoe_parts__delete_if_using_opaque_mat_Cylinder_11
+    100016: HEEL_Left_Top1
+    100018: HEEL_Right_Heel
+    100020: HEEL_Right_Heel_MeshPart0
+    100022: HEEL_Right_Heel_MeshPart1
+    100024: HEEL_Right_Heeltap
+    100026: HEEL_Right_Internal_shoe_parts__delete_if_using_opaque_mat1_Cube1
+    100028: HEEL_Right_Internal_shoe_parts__delete_if_using_opaque_mat1_Cube_1
+    100030: HEEL_Right_Internal_shoe_parts__delete_if_using_opaque_mat1_Cube_2
+    100032: HEEL_Right_Internal_shoe_parts__delete_if_using_opaque_mat1_Cylinder_1
+    100034: HEEL_Right_Top
+    100036: //RootNode
+    400000: HEEL_Left_Heel1
+    400002: HEEL_Left_Heel1_MeshPart0
+    400004: HEEL_Left_Heel1_MeshPart1
+    400006: HEEL_Left_Heeltap1
+    400008: HEEL_Left_Internal_shoe_parts__delete_if_using_opaque_mat_Cube
+    400010: HEEL_Left_Internal_shoe_parts__delete_if_using_opaque_mat_Cube_11
+    400012: HEEL_Left_Internal_shoe_parts__delete_if_using_opaque_mat_Cube_21
+    400014: HEEL_Left_Internal_shoe_parts__delete_if_using_opaque_mat_Cylinder_11
+    400016: HEEL_Left_Top1
+    400018: HEEL_Right_Heel
+    400020: HEEL_Right_Heel_MeshPart0
+    400022: HEEL_Right_Heel_MeshPart1
+    400024: HEEL_Right_Heeltap
+    400026: HEEL_Right_Internal_shoe_parts__delete_if_using_opaque_mat1_Cube1
+    400028: HEEL_Right_Internal_shoe_parts__delete_if_using_opaque_mat1_Cube_1
+    400030: HEEL_Right_Internal_shoe_parts__delete_if_using_opaque_mat1_Cube_2
+    400032: HEEL_Right_Internal_shoe_parts__delete_if_using_opaque_mat1_Cylinder_1
+    400034: HEEL_Right_Top
+    400036: //RootNode
+    2300000: HEEL_Left_Heel1_MeshPart0
+    2300002: HEEL_Left_Heel1_MeshPart1
+    2300004: HEEL_Left_Heeltap1
+    2300006: HEEL_Left_Internal_shoe_parts__delete_if_using_opaque_mat_Cube
+    2300008: HEEL_Left_Internal_shoe_parts__delete_if_using_opaque_mat_Cube_11
+    2300010: HEEL_Left_Internal_shoe_parts__delete_if_using_opaque_mat_Cube_21
+    2300012: HEEL_Left_Internal_shoe_parts__delete_if_using_opaque_mat_Cylinder_11
+    2300014: HEEL_Left_Top1
+    2300016: HEEL_Right_Heel_MeshPart0
+    2300018: HEEL_Right_Heel_MeshPart1
+    2300020: HEEL_Right_Heeltap
+    2300022: HEEL_Right_Internal_shoe_parts__delete_if_using_opaque_mat1_Cube1
+    2300024: HEEL_Right_Internal_shoe_parts__delete_if_using_opaque_mat1_Cube_1
+    2300026: HEEL_Right_Internal_shoe_parts__delete_if_using_opaque_mat1_Cube_2
+    2300028: HEEL_Right_Internal_shoe_parts__delete_if_using_opaque_mat1_Cylinder_1
+    2300030: HEEL_Right_Top
+    3300000: HEEL_Left_Heel1_MeshPart0
+    3300002: HEEL_Left_Heel1_MeshPart1
+    3300004: HEEL_Left_Heeltap1
+    3300006: HEEL_Left_Internal_shoe_parts__delete_if_using_opaque_mat_Cube
+    3300008: HEEL_Left_Internal_shoe_parts__delete_if_using_opaque_mat_Cube_11
+    3300010: HEEL_Left_Internal_shoe_parts__delete_if_using_opaque_mat_Cube_21
+    3300012: HEEL_Left_Internal_shoe_parts__delete_if_using_opaque_mat_Cylinder_11
+    3300014: HEEL_Left_Top1
+    3300016: HEEL_Right_Heel_MeshPart0
+    3300018: HEEL_Right_Heel_MeshPart1
+    3300020: HEEL_Right_Heeltap
+    3300022: HEEL_Right_Internal_shoe_parts__delete_if_using_opaque_mat1_Cube1
+    3300024: HEEL_Right_Internal_shoe_parts__delete_if_using_opaque_mat1_Cube_1
+    3300026: HEEL_Right_Internal_shoe_parts__delete_if_using_opaque_mat1_Cube_2
+    3300028: HEEL_Right_Internal_shoe_parts__delete_if_using_opaque_mat1_Cylinder_1
+    3300030: HEEL_Right_Top
+    4300000: HEEL_Left_Heel1_MeshPart0
+    4300002: HEEL_Left_Heel1_MeshPart1
+    4300004: HEEL_Left_Heeltap1
+    4300006: HEEL_Left_Internal_shoe_parts__delete_if_using_opaque_mat_Cube
+    4300008: HEEL_Left_Internal_shoe_parts__delete_if_using_opaque_mat_Cube_11
+    4300010: HEEL_Left_Internal_shoe_parts__delete_if_using_opaque_mat_Cube_21
+    4300012: HEEL_Left_Internal_shoe_parts__delete_if_using_opaque_mat_Cylinder_11
+    4300014: HEEL_Left_Top1
+    4300016: HEEL_Right_Heel_MeshPart0
+    4300018: HEEL_Right_Heel_MeshPart1
+    4300020: HEEL_Right_Heeltap
+    4300022: HEEL_Right_Internal_shoe_parts__delete_if_using_opaque_mat1_Cube1
+    4300024: HEEL_Right_Internal_shoe_parts__delete_if_using_opaque_mat1_Cube_1
+    4300026: HEEL_Right_Internal_shoe_parts__delete_if_using_opaque_mat1_Cube_2
+    4300028: HEEL_Right_Internal_shoe_parts__delete_if_using_opaque_mat1_Cylinder_1
+    4300030: HEEL_Right_Top
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
